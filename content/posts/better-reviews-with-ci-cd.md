@@ -4,7 +4,7 @@ date: 2020-06-12T19:43:08+02:00
 description: >
     Post discussing how to create a better review experience with git, with automated review builds for pull requests.
 summary: >
-    Great documentation has been carefully scrutinized in technical content and language reviews. Code review tools provide a nice framework for reviewing documentation, but out of the box, they only you changes in the raw source files. By setting up a CI/CD pipeline, reviewers can also get to preview the final output. Here's how you can do it!
+    Great documentation has been carefully scrutinized in technical content and language reviews. Code review tools provide a nice framework for reviewing documentation, but out of the box, they only let you change in the raw source files. By setting up a CI/CD pipeline, reviewers can also get to preview the final output. Here's how you can do it!
 ---
 
 ## Introduction
